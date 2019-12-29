@@ -4,7 +4,7 @@
 
 
 
-![landing page](https://github.com/MartinStefko/cryptochain1/blob/master/cryptochain1.jpg?raw=true)
+![cryptochain1](cryptochain1.jpg)
 
 ## Installation
 
