@@ -1,10 +1,11 @@
 
 # Cryptochain
+
 > Sample POW+Nakamoto consensus based blockchain,build with Node and React.
 
 
-
 ![cryptochain1](cryptochain1.jpg)
+
 
 ## Installation
 
