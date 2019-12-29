@@ -1,10 +1,6 @@
 # Cryptochain
 > Sample POW+Nakamoto consensus based blockchain,build with Node and React.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 
 
 ![](header.png)
@@ -24,9 +20,8 @@ npm i --save
 
 ## Usage example
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+Start a node and go to the http://localhost:3000/. Go to Conduct Transation option. Set recipient and amount. Send it. Explore transaction pool. Mine it. Got a reward! 
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Development setup
 
@@ -70,11 +65,3 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
