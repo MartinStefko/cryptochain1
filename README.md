@@ -4,7 +4,7 @@
 
 
 
-![alt text](https://raw.githubusercontent.com/MartinStefko/cryptochain1/client/dist/cryptochain1.png)
+![landing page](https://raw.githubusercontent.com/MartinStefko/cryptochain1/blob/master/cryptochain1.png)
 
 ## Installation
 
