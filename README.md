@@ -9,12 +9,21 @@
 
 ## Installation
 
-OS X & Linux:
+Linux:
 
 ```sh
 sudo apt update
 sudo apt install nodejs
 sudo apt install npm
+cd /to/project/directory
+npm i --save
+```
+
+OSX:
+
+```sh
+brew update
+brew install node
 cd /to/project/directory
 npm i --save
 ```
