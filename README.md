@@ -52,7 +52,7 @@ npm run test
 
 ## Meta
 
-Orinal work from [https://github.com/15Dkatz)
+Original work from [https://github.com/15Dkatz)
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
