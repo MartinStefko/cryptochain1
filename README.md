@@ -1,9 +1,10 @@
+
 # Cryptochain
 > Sample POW+Nakamoto consensus based blockchain,build with Node and React.
 
 
 
-![](header.png)
+![alt text](https://raw.githubusercontent.com/MartinStefko/cryptochain1/client/dist/cryptochain1.png)
 
 ## Installation
 
@@ -24,8 +25,6 @@ Start a node and go to the http://localhost:3000/. Go to Conduct Transation opti
 
 
 ## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 To make a root node
 ```sh
